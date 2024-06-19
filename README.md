@@ -4,7 +4,7 @@ Use this application to generate a base for your writing content or to test out 
 ## Demonstration
 
 https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b1-aa62d64fcebb
-## Instructions
+## Getting Started
 ### Installation Requirements
   * [Python 3.7+](https://www.python.org/)
   * [PyTorch](https://pytorch.org/)
