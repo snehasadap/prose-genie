@@ -29,15 +29,14 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
       pip install datasets
       ```
 ## Usage
-   Once installation is complete, you may proceed to copy my code from newapp.py and essays.txt. For simplicity, I placed the HTML script in newapp,py, so you won’t need an index.html file for this project. 
+Once installation is complete, you may proceed to copy my code from newapp.py and essays.txt. For simplicity, I placed the HTML script in newapp,py, so you won’t need an index.html file for this project. 
 
-   You can run the app in development mode by typing the following command in your terminal:
-    ```sh
-      python3 newapp.py
-      ```
+You can run the app in development mode by typing the following command in your terminal:
+```sh
+ pip install datasets
+```
+You should see your code running at [http://127.0.0.1:5000/](http://127.0.0.1:5000/). Refresh the page to test a different prompt.
 
-   You should see your code running at [http://127.0.0.1:5000/](http://127.0.0.1:5000/). Refresh the page to test a different prompt.
-   
-   You can now modify newapp.py to your liking. To view the modified changes in your browser, ctrl + s newapp.py and refresh the page. This will trigger the flask debugger to restart.
+You can now modify newapp.py to your liking. To view the modified changes in your browser, ctrl + s newapp.py and refresh the page. This will trigger the flask debugger to restart.
 ### Additional Notes     
       
