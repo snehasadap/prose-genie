@@ -38,6 +38,6 @@ You can run the app in development mode by typing the following command in your 
 
 You should see your code running at [http://127.0.0.1:5000/](http://127.0.0.1:5000/). Refresh the page to test a different prompt.
 
-Now you can modify newapp.py. To view the modified changes in your browser, ctrl + s newapp.py and refresh the page. This will trigger the flask debugger to restart.
+Now you can modify newapp.py. To view the modified changes, **ctrl + s** newapp.py then refresh your browser. This will trigger the flask debugger to restart.
 ### Additional Notes     
       
