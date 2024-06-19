@@ -11,7 +11,7 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
   * [Hugging Face - Transformers](https://huggingface.co/docs/transformers/en/index) (You will use this to load the GPT-2 pre-trained model)
   * [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
-### Instructions
+### Installation Instructions
   1. Install PyTorch (CPU only, change command if you need GPU support)
         ```sh
       pip install torch
@@ -28,5 +28,16 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
      ```sh
       pip install datasets
       ```
-     
+## Usage
+    Once installation is complete, you may proceed to copy my code from newapp.py and essays.txt. For simplicity, I placed the HTML script in newapp,py, so you won’t need an index.html file for this project. 
+
+    You can run the app in development mode by typing the following command in your terminal:
+    ```sh
+      python3 newapp.py
+      ```
+
+    You should see your code running at [http://127.0.0.1:5000/](http://127.0.0.1:5000/). Refresh the page to test a different prompt.
+
+    You can now modify newapp.py to your liking. To view the modified changes in your browser, ctrl + s newapp.py and refresh the page. This will trigger the flask debugger to restart.
+### Additional Notes     
       
