@@ -31,7 +31,7 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
 ## Usage
 Once installation is complete, you may proceed to copy my code from newapp.py and essays.txt. For simplicity, I placed the HTML script in newapp,py, so you won’t need an index.html file for this project. 
 
-You can run the app in development mode by typing the following command in your terminal:
+You can run the app in development mode by pasting the following command in your terminal:
 ```sh
  python3 newapp.py
 ```
