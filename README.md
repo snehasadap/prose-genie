@@ -1,4 +1,4 @@
-# prompt-genie
+# prose-genie
 Use this application to generate a base for your writing content or to test out the unhinged nature of the [GPT-2 language model](https://openai.com/index/better-language-models/). This project is built on Flask, a web-framework that can be used to build web applications that utilize python. 
 
 ## Demonstration
