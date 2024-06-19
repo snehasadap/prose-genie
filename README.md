@@ -8,6 +8,6 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
 ### Installation Requirements
   * [Python 3.7+](https://www.python.org/)
   * [PyTorch](https://pytorch.org/)
-  * [Hugging Face - Transformers](https://huggingface.co/docs/transformers/en/index) (you will use this to load the GPT-2 pre-trained model)
+  * [Hugging Face - Transformers](https://huggingface.co/docs/transformers/en/index) (You will use this to load the GPT-2 pre-trained model)
   * [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
