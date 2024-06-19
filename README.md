@@ -12,3 +12,9 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
   * [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
 ### Instructions
+  1. Install PyTorch (CPU only, change command if you need GPU support)
+        ```sh
+      pip install torch
+      ```
+  2. 
+      
