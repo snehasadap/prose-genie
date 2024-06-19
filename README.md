@@ -39,5 +39,6 @@ You can run the app in development mode by pasting the following command in your
 You should see your code running at [http://127.0.0.1:5000/](http://127.0.0.1:5000/). Refresh the page to test a different prompt.
 
 Now you can modify newapp.py. To view the modified changes, **ctrl + s** newapp.py then refresh your browser. This will trigger the flask debugger to restart.
-### Additional Notes     
+### Additional Notes  
+GPT-2 works by predicting the next word based on all the previous words withinin your prompt. To improve the quality of the output, try framing your prompt as the beginning of a paragraph rather than as a command. For example, instead of saying ***"Tell me about <topic>,"*** you could start with ***"Today, I learned about <topic>."*** to generate more coherent and relevant text.
       
