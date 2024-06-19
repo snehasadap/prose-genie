@@ -16,5 +16,17 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
         ```sh
       pip install torch
       ```
-  2. 
+  2. Install Hugging Face Transformers
+     ```sh
+      pip install transformers
+      ```
+  3. Install Flask
+     ```sh
+      pip install Flask
+      ```
+  4. Install additional Hugging Face libraries for dataset handling and data collating
+     ```sh
+      pip install datasets
+      ```
+     
       
