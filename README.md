@@ -40,5 +40,5 @@ You should see your code running at [http://127.0.0.1:5000/](http://127.0.0.1:50
 
 Now you can modify `newapp.py`. To view the modified changes, **ctrl + s** `newapp.py`, then refresh your browser. This will trigger the Flask debugger to restart.
 ### Additional Notes  
-GPT-2 works by predicting the next word, given all the previous words within your input. In simple terms, the coherence of the prosed text is dependent on the quality of your prompt. To generate more coherent and relevant text, try structuring your prompt as a narrative rather than as a command. For example, instead of saying ***"Tell me about (topic),"*** you could start with ***"Today, I learned about (topic)."*** 
+GPT-2 works by predicting the next word, given all the previous words within your input. In simple terms, the coherence of the prosed text is dependent on the quality of your prompt. For a better output, try structuring your prompt as a narrative rather than as a command. For example, instead of saying ***"Tell me about (topic),"*** you could start with ***"Today, I learned about (topic)."*** 
       
