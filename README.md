@@ -24,7 +24,7 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
      ```sh
       pip install Flask
       ```
-  4. Install datasets for loading additional procedures for fine-tuning
+  4. Install datasets for additional fine-tuning procedures
      ```sh
       pip install datasets
       ```
