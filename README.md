@@ -24,7 +24,7 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
      ```sh
       pip install Flask
       ```
-  4. Install additional Hugging Face libraries for dataset handling
+  4. Install datasets for loading my fine-tuned model
      ```sh
       pip install datasets
       ```
