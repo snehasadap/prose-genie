@@ -29,7 +29,7 @@ https://github.com/snehasad/prompt-genie/assets/104543929/a741fb3b-eb76-470d-82b
       pip install datasets
       ```
 ## Usage
-Once installation is complete, you may proceed to copy my code from `newapp.py` and `essays.txt`. I included the HTML script in `newapp.py`, so you won’t need an index.html file for this project. 
+Once installation is complete, you may proceed to copy my code from `newapp.py` and `essays.txt`. I rendered the HTML script in Flask, so you won’t need an index.html file for this project. 
 
 You can run the app in development mode by pasting the following command in your terminal:
 ```sh
